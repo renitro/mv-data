@@ -1,0 +1,23 @@
+{
+	"personagem": [
+		{
+			"nome": "Adam Catlace",
+			"forca": "0",
+			"habilidade": "0",
+			"resistencia": "0",
+			"mente": "0",
+			"pdf": "0"
+		},
+		{
+			"nome": "banana",
+			"forca": "1",
+			"habilidade": "2",
+			"resistencia": "3",
+			"mente": "4",
+			"pdf": "5"
+		}
+	],
+	"vantagens": [
+		"gr"
+	]
+}
