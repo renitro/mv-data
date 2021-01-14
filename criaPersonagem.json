@@ -1,0 +1,17 @@
+{
+	"personagem": [
+		{
+			"nome": "Bananão",
+			"forca": 5,
+			"habilidade": 0,
+			"resistencia": 2,
+			"mente": 1,
+			"pdf": 1,
+			"vantagens": [
+				"Alquimista",
+				"Área de Batalha",
+				"Ataque Múltiplo"
+			]
+		}
+	]
+}
