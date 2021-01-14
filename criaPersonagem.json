@@ -1,17 +1,3 @@
 {
-	"personagem": [
-		{
-			"nome": "Bananão",
-			"forca": "1",
-			"habilidade": "1",
-			"resistencia": "1",
-			"mente": "1",
-			"pdf": "1",
-			"vantagens": [
-				"Clericato",
-				"Boa Fama",
-				"Ataque Múltiplo"
-			]
-		}
-	]
+	"personagem": []
 }
