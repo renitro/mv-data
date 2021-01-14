@@ -19,11 +19,11 @@
 		},
 		{
 			"nome": "Banana2",
-			"forca": 3,
-			"habilidade": 3,
-			"resistencia": 3,
-			"mente": 3,
-			"pdf": 3,
+			"forca": 2,
+			"habilidade": 2,
+			"resistencia": 2,
+			"mente": 5,
+			"pdf": 0,
 			"vantagens": [
 				"Boa Fama",
 				"Arcano",
