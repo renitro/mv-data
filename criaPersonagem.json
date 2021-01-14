@@ -1,7 +1,7 @@
 {
 	"personagem": [
 		{
-			"nome": "Bananão",
+			"nome": "Bananaum",
 			"forca": 3,
 			"habilidade": 5,
 			"resistencia": 2,
@@ -35,6 +35,18 @@
 				"Modelo Especial",
 				"Devoção",
 				"Fetiche"
+			]
+		},
+		{
+			"nome": "Bananinha3",
+			"forca": 5,
+			"habilidade": 4,
+			"resistencia": 1,
+			"mente": 5,
+			"pdf": 4,
+			"vantagens": [],
+			"desvantagens": [
+				"Ambiente Especial"
 			]
 		}
 	]
