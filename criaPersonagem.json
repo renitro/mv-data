@@ -1,3 +1,13 @@
 {
-	"personagem": []
+	"personagem": [
+		{
+			"nome": "Exemplo",
+			"forca": "1",
+			"habilidade": "1",
+			"resistencia": "1",
+			"mente": "1",
+			"pdf": "1",
+			"vantagens": []
+		}
+	]
 }
