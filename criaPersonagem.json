@@ -2,10 +2,10 @@
 	"personagem": [
 		{
 			"nome": "Bananão",
-			"forca": 5,
-			"habilidade": 0,
+			"forca": 3,
+			"habilidade": 3,
 			"resistencia": 2,
-			"mente": 1,
+			"mente": 2,
 			"pdf": 1,
 			"vantagens": [
 				"Alquimista",
