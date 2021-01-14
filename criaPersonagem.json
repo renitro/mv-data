@@ -1,7 +1,7 @@
 {
 	"personagem": [
 		{
-			"nome": "Digite o nome do seu personagem!",
+			"nome": "Bananaman",
 			"forca": 5,
 			"habilidade": 5,
 			"resistencia": 5,
