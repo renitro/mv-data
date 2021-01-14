@@ -1,0 +1,15 @@
+{
+	"personagem": [
+		{
+			"nome": "Digite o nome do seu personagem!",
+			"forca": 5,
+			"habilidade": 5,
+			"resistencia": 5,
+			"mente": 5,
+			"pdf": 5,
+			"vantagens": [
+				"Aceleração"
+			]
+		}
+	]
+}
