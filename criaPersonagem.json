@@ -12,6 +12,19 @@
 				"Área de Batalha",
 				"Ataque Múltiplo"
 			]
+		},
+		{
+			"nome": "Banana2",
+			"forca": 3,
+			"habilidade": 3,
+			"resistencia": 3,
+			"mente": 3,
+			"pdf": 3,
+			"vantagens": [
+				"Boa Fama",
+				"Arcano",
+				"Xamã"
+			]
 		}
 	]
 }
