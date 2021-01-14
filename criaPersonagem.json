@@ -11,6 +11,10 @@
 				"Alquimista",
 				"Área de Batalha",
 				"Ataque Múltiplo"
+			],
+			"desvantagens": [
+				"Deficiência Física",
+				"Fúria"
 			]
 		},
 		{
@@ -24,6 +28,13 @@
 				"Boa Fama",
 				"Arcano",
 				"Xamã"
+			],
+			"desvantagens": [
+				"Ambiente Especial",
+				"Munição Limitada",
+				"Modelo Especial",
+				"Devoção",
+				"Fetiche"
 			]
 		}
 	]
