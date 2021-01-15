@@ -1,0 +1,23 @@
+{
+	"personagem": [
+		{
+			"nome": "Bananaman",
+			"forca": 5,
+			"habilidade": 0,
+			"resistencia": 5,
+			"mente": 1,
+			"pdf": 2,
+			"vantagens": [
+				"Familiar",
+				"Ataque Múltiplo",
+				"Clericato",
+				"Genialidade",
+				"Toque de Energia"
+			],
+			"desvantagens": [
+				"Fúria",
+				"Dependência"
+			]
+		}
+	]
+}
